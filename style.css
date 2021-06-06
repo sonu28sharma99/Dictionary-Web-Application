@@ -81,3 +81,20 @@ section.data p.def {
 .audio {
   margin-top: 20px;
 }
+
+.footer-message {
+  color:whitesmoke;
+  font-size: 30px;
+}
+
+footer{
+  position: sticky;
+  background: #553c9a;
+  padding: 20px 2px;
+  margin-top: 58vh;
+}
+
+.center {
+  text-align: center;
+  color: white;
+}
