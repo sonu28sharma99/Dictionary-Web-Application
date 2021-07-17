@@ -10,6 +10,14 @@ body {
   font-family: "Muli", sans-serif;
   min-height: 100vh;
 }
+
+
+
+.footer{
+  position: sticky;
+  top: 100%;
+}
+
 .container {
   width: 1152px;
   max-width: 90%;
@@ -95,6 +103,8 @@ footer{
   padding: 20px 2px;
   margin-top: 58vh;
 }
+
+
 
 .center {
   text-align: center;
